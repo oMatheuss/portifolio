@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+.header {
+    background: #2F3E46;
+    height: auto;
+    position: absolute;
+    width: 100%;
+    display: flex;
+}
+
+.title {
+    margin: auto;
+    color: #CAD2C5;
+}
+
+.part1-bg {
+    height: 100vh;
+    min-height: 300px;
+    background: #CAD2C5;
+}
+
+.part1 {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.part1-1 {
+    padding-top: 60px;
+    align-self: center;
+}
